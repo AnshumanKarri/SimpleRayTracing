@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/inOneWeekend.dir/link.d CMakeFiles/inOneWeekend.dir/main.cc.o -o inOneWeekend

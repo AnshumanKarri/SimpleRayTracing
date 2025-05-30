@@ -1,0 +1,3 @@
+/home/miku/Documents/CppProjects/SimpleRayTracing/build/Release/CMakeFiles/inOneWeekend.dir
+/home/miku/Documents/CppProjects/SimpleRayTracing/build/Release/CMakeFiles/edit_cache.dir
+/home/miku/Documents/CppProjects/SimpleRayTracing/build/Release/CMakeFiles/rebuild_cache.dir
