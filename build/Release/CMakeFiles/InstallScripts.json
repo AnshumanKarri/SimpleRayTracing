@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/miku/Documents/CppProjects/SimpleRayTracing/build/Release/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
